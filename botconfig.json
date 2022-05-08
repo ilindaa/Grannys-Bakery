@@ -1,5 +1,5 @@
 {
-    "token": "NzE5NjExMjk4MDY0NzYwOTU0.XwOI8g.e4pB1UFjLouf18i5HYHycHfobrI",
+    "token": "",
     "prefix": "gb.",
-    "mongoPass": "mongodb+srv://grannystraw:jennylisa22@grannysbakery.g7tk5.mongodb.net/playerData?retryWrites=true&w=majority"
+    "mongoPass": ""
 }
